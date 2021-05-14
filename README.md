@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Tara Timmerman! 👋
+___________________________________
+I am a software engineer who is earning her chops studying Full Stack Web Development at Lambda School. My programming skills focus on JavaScript to implement full stack projects with React, Redux, Node, and Express.
+
+Let's work together!
+
+- Sharing updates on LinkedIn(https://www.linkedin.com/in/tara-timmerman/)
 
 <!--
 **taratimmerman/taratimmerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
