@@ -4,7 +4,7 @@ I am a software engineer based out of Salt Lake City, Utah who is earning her ch
 
 Let's work together!
 
-- Sharing updates on LinkedIn(https://www.linkedin.com/in/tara-timmerman/)
+- Sharing updates on [LinkedIn](https://www.linkedin.com/in/tara-timmerman/)
 
 <!--
 **taratimmerman/taratimmerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
