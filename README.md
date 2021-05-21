@@ -1,6 +1,6 @@
 ### Hi there, I'm Tara Timmerman! 👋
 ___________________________________
-I am a software engineer based out of Salt Lake City, Utah who is earning her chops studying Full Stack Web Development at Lambda School. My programming skills focus on JavaScript to implement full stack projects with React, Redux, Node, and Express.
+I am a software engineer based out of Salt Lake City, Utah. I enjoy solving complex problems and building out user-friendly, efficient websites. My programming skills focus on JavaScript to implement full stack projects with React, Redux, Node, and Express.
 
 Let's work together!
 
