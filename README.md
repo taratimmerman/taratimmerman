@@ -4,7 +4,7 @@ I recently graduated from Lambda School in Full Stack Web Development and enjoy 
 
 Want to learn more?
 
-<a href="https://www.linkedin.com/in/tara-timmerman/"><img src="https://img.shields.io/badge/-Hussain%20Ali-blue?style=flat-square&logo=linkedin"/></a>
+<a href="https://www.linkedin.com/in/tara-timmerman/"><img src="https://img.shields.io/badge/-Tara%20Timmerman-blue?style=flat-square&logo=linkedin"/></a>
 <a href="http://tara-timmerman.herokuapp.com/"><img src="https://img.shields.io/badge/-Personal%20Portfolio-green?style=flat-square&logo=googlechrome"/></a>
 
 <!--
