@@ -1,10 +1,11 @@
-### Hi there, I'm Tara Timmerman! 👋
+### Hi! Nice to meet you, I'm Tara. 👋
 ___________________________________
-I am a software engineer based out of Salt Lake City, Utah. I enjoy solving complex problems and building out user-friendly, efficient websites. My programming skills focus on JavaScript to implement full stack projects with React, Redux, Node, and Express.
+I recently graduated from Lambda School in Full Stack Web Development and enjoy creating inclusive, user-friendly and efficient web applications. I thrive in a collaborative environment and appreciate building excellent relationships between people and teams. When I am not programming, I can be found longboarding and spending time with my wife and pups in Silicon Slopes⛰️.
 
-Let's work together!
+Want to learn more?
 
-- Sharing updates on [LinkedIn](https://www.linkedin.com/in/tara-timmerman/)
+<a href="https://www.linkedin.com/in/tara-timmerman/"><img src="https://img.shields.io/badge/-Hussain%20Ali-blue?style=flat-square&logo=linkedin"/></a>
+<a href="http://tara-timmerman.herokuapp.com/"><img src="https://img.shields.io/badge/-Personal%20Portfolio-green?style=flat-square&logo=googlechrome"/></a>
 
 <!--
 **taratimmerman/taratimmerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
