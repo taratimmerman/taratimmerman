@@ -2,6 +2,8 @@
 ___________________________________
 I recently graduated from Lambda School in Full Stack Web Development and enjoy creating inclusive, user-friendly and efficient web applications. I thrive in a collaborative environment and appreciate building excellent relationships between people and teams. When I am not programming, I can be found longboarding and spending time with my wife and pups in Silicon Slopes⛰️.
 
+My languages and tools:
+
   <a href="https://devdocs.io/html/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" alt="html" width="50" height="50"/></code> 
     </a>
@@ -17,12 +19,13 @@ I recently graduated from Lambda School in Full Stack Web Development and enjoy 
         <a href="https://nodejs.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/></code> 
     </a> 
-        <a href="https://www.npmjs.com/package/express" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/express/express-original-wordmark.svg" alt="Express JS" width="50" height="50"/></code> 
-    </a>
+        <a href="https://www.postgresql.org/" target="_blank"> 
+        <code><img src="https://www.postgresql.org/" alt="postgresql" width="50" height="50"/></code> 
+    </a> 
     <a href="https://www.python.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" alt="python" width="50" height="50"/></code> 
     </a> 
+
 
 Want to learn more?
 
